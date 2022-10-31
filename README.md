@@ -1,1 +1,3 @@
-A simple react app that shows available tasks for the day be completed
+
+A simple react typescript
+app that shows available tasks for the day be completed.
