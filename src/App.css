@@ -59,5 +59,12 @@
   color: white;
   margin: 15px;
 }
+.task .content {
+  flex: 80%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
 
