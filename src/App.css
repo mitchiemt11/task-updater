@@ -76,4 +76,13 @@
   border-right: none;
   background-color: tomato;
 }
-
+.task button {
+  flex: 20%;
+  height: 100%;
+  border: none;
+  background-color: lightseagreen;
+  border-top-right-radius: 8px;
+  border-bottom-right-radius: 8px;
+  color: white;
+  cursor: pointer;
+}
