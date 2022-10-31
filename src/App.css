@@ -52,4 +52,12 @@
   flex: 70%;
   width: 100%;
 }
+.task {
+  width: 500px;
+  height: 50px;
+  display: flex;
+  color: white;
+  margin: 15px;
+}
+
 
