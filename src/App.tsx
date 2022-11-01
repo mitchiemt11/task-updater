@@ -23,7 +23,7 @@ const App: FC = () => {
     setDealine(0);
   };
 
-  const completeTask = (taskNameToDelete: string): void => {
+  const completeTask = (taskNameToDelete: string) => {
     setTodoList(
       todoList.filter((task) => {
         return task.taskName != taskNameToDelete;
